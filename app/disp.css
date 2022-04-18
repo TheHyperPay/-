@@ -1,0 +1,53 @@
+body{
+    margin: 0px;
+}
+p{
+    margin: 20px 100px;
+}
+
+#Maker{
+    position: fixed;
+    background: #FFFFFF;
+    width: 100vw;
+    height: 60vh;
+}
+#Panel{
+    width: 750px;
+    height: 750px;
+    border-radius: 80px;
+    margin: 100px;
+    box-shadow: 0px 1px 17px 5px #AAAAAA;
+}
+
+.Iden{
+    display: flex;
+    justify-content: left;
+    width: 430px;
+    margin: 0px 120px 0px 120px;
+}
+
+#Displ{
+    display: flex;
+    justify-content: space-around;
+}
+
+.normprof{
+    margin: 0px 120px 0px 120px;
+    height: 70px;
+    width: 70px;
+}
+
+#Watcher{
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 460vh;
+}
+
+.comment{
+    width: 930px;
+    height: 100px;
+    background: #f9f9f9;
+    border-radius: 30px;
+    box-shadow: 1px 0px 0px 3px #9f9f9f;
+}

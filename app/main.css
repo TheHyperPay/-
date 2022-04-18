@@ -1,0 +1,55 @@
+body{
+    margin: 0px;
+}
+
+#Bann{
+    background: #157bb6;
+    height: 30vh;
+    width: 100vw;
+}
+
+#User{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    flex-direction: row;
+
+    width: 100vw;
+}
+
+.Imim{
+    border-radius: 52px;
+    margin: 60px 0px 40px;
+    box-shadow: 1px 1px 15px 3px #9F9F9F;
+
+    background: #FAFAFA;
+    height: 500px;
+    width: 400px;
+}
+.imgstyle{
+    border-radius: 42px;
+    margin: 50px;
+    height: 300px;
+    width: 300px;
+}
+.userprof{
+    height: 70px;
+    width: 70px;
+    border-radius: 70px;
+    border: 7px solid #575757;
+    margin: 0px 0px 0px 25px;
+}
+.normprof{
+    margin: 0px 0px 0px 10px;
+    height: 50px;
+    width: 50px;
+}
+
+#Navi{
+    display: flex;
+    position: fixed;
+    background: #e0e409;
+    height: 10vh;
+    width: 100vw;
+    bottom: 0vh;
+}
